@@ -11,7 +11,7 @@ Une liste curée d'outils essentiels pour les chefs de produits, couvrant la cr�
 - [Ressources supplémentaires](#ressources-supplémentaires)
 
 ## Création de produit
-- **[Sketch](https://www.sketch.com/){:target="_blank" rel="nofollow"}** : Outil de design pour créer des interfaces utilisateur et des prototypes interactifs.
+- **[Sketch](https://www.sketch.com/ {:target="_blank" rel="nofollow"})** : Outil de design pour créer des interfaces utilisateur et des prototypes interactifs.
 - **[Figma](https://www.figma.com/){:target="_blank" rel="nofollow"}** : Plateforme collaborative pour le design de produits, permettant le travail en temps réel avec les équipes.
 - **[Adobe XD](https://www.adobe.com/products/xd.html){:target="_blank" rel="nofollow"}** : Solution de design UX/UI pour la création de prototypes interactifs et de wireframes.
 - **[InVision](https://www.invisionapp.com/){:target="_blank" rel="nofollow"}** : Outil de prototypage et de collaboration pour la conception de produits numériques.
