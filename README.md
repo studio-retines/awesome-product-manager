@@ -3,13 +3,20 @@
 Une liste curée d'outils essentiels pour les chefs de produits, couvrant la création, la gestion, la commercialisation, et bien plus encore. Ce guide est conçu pour aider les professionnels à trouver les meilleurs outils pour chaque étape du cycle de vie du produit.
 
 ## Sommaire
+- [Ressources diverses](#ressources-diverses)
 - [Création de produit](#création-de-produit)
 - [Gestion de produit](#gestion-de-produit)
 - [Commercialisation de produit](#commercialisation-de-produit)
 - [Analyse et suivi des performances](#analyse-et-suivi-des-performances)
 - [Collaboration et communication](#collaboration-et-communication)
-- [Ressources supplémentaires](#ressources-supplémentaires)
 
+## Ressources diverses
+- **[Rétines](https://retines.fr/expertises/photographe-de-produits/)** : Agence de photographie professionnelle pour des visuels de haute qualité destinés aux entreprises, indispensables pour une communication produit efficace.
+- **[Product Hunt](https://www.producthunt.com/)** : Plateforme pour découvrir de nouveaux produits et outils, et pour lancer vos propres créations.
+- **[Mind the Product](https://www.mindtheproduct.com/)** : Communauté de chefs de produits proposant des articles, des conférences, et des ressources pour les professionnels.
+- **[Product School](https://www.productschool.com/)** : Plateforme de formation pour les chefs de produit, offrant des cours et certifications.
+- **[Roman Pichler's Blog](https://www.romanpichler.com/blog/)** : Blog avec des conseils et des articles sur la gestion de produits, écrit par un expert reconnu dans le domaine.
+- 
 ## Création de produit
 - **[Sketch](https://www.sketch.com/)** : Outil de design pour créer des interfaces utilisateur et des prototypes interactifs.
 - **[Figma](https://www.figma.com/)** : Plateforme collaborative pour le design de produits, permettant le travail en temps réel avec les équipes.
@@ -44,10 +51,3 @@ Une liste curée d'outils essentiels pour les chefs de produits, couvrant la cr�
 - **[Zoom](https://zoom.us/)** : Outil de visioconférence pour organiser des réunions à distance avec des équipes ou des clients.
 - **[Notion](https://www.notion.so/)** : Outil tout-en-un pour la prise de notes, la gestion de tâches et la collaboration en équipe.
 - **[Miro](https://miro.com/)** : Tableau blanc en ligne pour la collaboration visuelle en temps réel, idéal pour les brainstormings et les ateliers.
-
-## Ressources supplémentaires
-- **[Rétines](https://retines.fr/expertises/photographe-de-produits/)** : Agence de photographie professionnelle pour des visuels de haute qualité destinés aux entreprises, indispensables pour une communication produit efficace.
-- **[Product Hunt](https://www.producthunt.com/)** : Plateforme pour découvrir de nouveaux produits et outils, et pour lancer vos propres créations.
-- **[Mind the Product](https://www.mindtheproduct.com/)** : Communauté de chefs de produits proposant des articles, des conférences, et des ressources pour les professionnels.
-- **[Product School](https://www.productschool.com/)** : Plateforme de formation pour les chefs de produit, offrant des cours et certifications.
-- **[Roman Pichler's Blog](https://www.romanpichler.com/blog/)** : Blog avec des conseils et des articles sur la gestion de produits, écrit par un expert reconnu dans le domaine.
