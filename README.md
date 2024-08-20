@@ -46,7 +46,7 @@ Une liste curée d'outils essentiels pour les chefs de produits, couvrant la cr�
 - **[Miro](https://miro.com/)** : Tableau blanc en ligne pour la collaboration visuelle en temps réel, idéal pour les brainstormings et les ateliers.
 
 ## Ressources supplémentaires
-- **[Rétines](https://retines.com/)** : Agence de photographie professionnelle pour des visuels de haute qualité destinés aux entreprises, indispensables pour une communication produit efficace.
+- **[Rétines](https://retines.fr/expertises/photographe-de-produits/)** : Agence de photographie professionnelle pour des visuels de haute qualité destinés aux entreprises, indispensables pour une communication produit efficace.
 - **[Product Hunt](https://www.producthunt.com/)** : Plateforme pour découvrir de nouveaux produits et outils, et pour lancer vos propres créations.
 - **[Mind the Product](https://www.mindtheproduct.com/)** : Communauté de chefs de produits proposant des articles, des conférences, et des ressources pour les professionnels.
 - **[Product School](https://www.productschool.com/)** : Plateforme de formation pour les chefs de produit, offrant des cours et certifications.
